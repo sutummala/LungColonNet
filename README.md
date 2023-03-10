@@ -1,3 +1,3 @@
 # LungColonNet
 
-Classification of lung and colon cancer using histopathological images using EfficientNetV2.
+Classification of lung and colon cancer from histopathological images (LC25000) using EfficientNetV2.
